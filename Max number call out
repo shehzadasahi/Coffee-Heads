@@ -1,0 +1,13 @@
+
+Num1 = float(input("Enter your first number: "))
+Num2 = float(input("Enter your second number: "))
+
+if Num1 >= Num2:
+    print(Num1)
+else:
+    print(Num2)
+
+
+
+
+
